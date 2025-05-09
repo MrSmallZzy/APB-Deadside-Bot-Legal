@@ -1,6 +1,6 @@
 # Terms of Service for APB Deadside Bot
 
-*Last Updated: May 3, 2025*
+*Last Updated: May 9, 2025*
 
 ## 1. Acceptance of Terms
 
@@ -65,7 +65,7 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 ## 12. Contact Information
 
-If you have any questions about these Terms, please contact us at [lootzsurvivalservers@gmail.com].
+If you have any questions about these Terms, please contact us at [alwayspushingbuttons.team@gmail.com].
 
 ## 13. Severability
 
