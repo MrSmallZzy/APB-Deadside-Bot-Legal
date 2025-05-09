@@ -1,6 +1,6 @@
 # Privacy Policy for APB Deadside Bot
 
-*Last Updated: May 3, 2025*
+*Last Updated: May 9, 2025*
 
 This Privacy Policy describes how Always Pushing Buttons ("we", "us", or "our") collects, uses, and shares information in connection with your use of our Discord bot, APB Deadside Bot ("the Bot").
 
