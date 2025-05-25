@@ -1,6 +1,6 @@
 # Terms of Service for APB Deadside Bot
 
-*Last Updated: May 9, 2025*
+*Last Updated: May 25, 2025*
 
 ## 1. Acceptance of Terms
 
@@ -22,6 +22,10 @@ When using the Bot, you agree not to:
 - Use the Bot to harass, abuse, or harm others
 - Use the Bot to distribute spam or malicious content
 - Interfere with or disrupt the Bot's functionality
+
+### 3.3 Representation of APB
+
+By linking the Bot to your Discord account and/or guild and actively using it, you acknowledge that your actions and communications, whether through the Bot or in any other context, are considered a representation of Always Pushing Buttons (APB). You agree to represent APB in a positive and professional manner at all times while the Bot is linked to your account and/or guild. Conduct that fails to uphold this standard, including but not limited to threatening, harassing, or engaging in abusive behavior toward others, may result in the suspension or revocation of your access to the Bot at APB's sole discretion.
 
 ## 4. Intellectual Property
 
@@ -57,7 +61,7 @@ We reserve the right to modify these Terms at any time. We will provide notice o
 
 ## 10. Termination
 
-We reserve the right to suspend or terminate your access to the Bot at any time, for any reason, without notice or liability.
+We reserve the right to suspend or terminate your access to the Bot at any time, for any reason, including but not limited to violations of Section 3.2 (User Conduct) or Section 3.3 (Representation of APB), without notice or liability.
 
 ## 11. Governing Law
 
